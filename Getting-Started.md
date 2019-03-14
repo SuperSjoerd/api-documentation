@@ -13,7 +13,7 @@ The StoreKeeper API allows programmatic access to all of the features that are a
 
 Before you can start communicating with the StoreKeeper backend using the available API, you'll need an active StoreKeeper account and the neccesary credentials to sign-in into the StoreKeeper API Explorer. The API Explorer provides an easy way to make calls to the backend.
 
-Using the API Explorer, it's possible to generate the code, which is needed to reproduce the result you got using the explorer. The code generation is currently only available for ++javascript++ and ++php++
+Using the API Explorer, it's possible to generate the code, which is needed to reproduce the result you got using the explorer. The code generation is currently only available for `javascript` and `php`
 
 ## Important urls
 | System | Url |
@@ -23,7 +23,7 @@ Using the API Explorer, it's possible to generate the code, which is needed to r
 
 ## Authentication methods
 
-There are multiple ways to authenticate against a StoreKeeper backend. You can authenticate using a ++hash++, ++password++, or an ++api_key++.
+There are multiple ways to authenticate against a StoreKeeper backend. You can authenticate using a `hash` `password` or an `api_key`
 
 ### 1. Api Keys
 
