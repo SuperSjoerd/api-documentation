@@ -1,5 +1,12 @@
 ![StoreKeeper Logo](https://i.imgur.com/SXTH2r0.png)
 
+## Todo
+
+- [ ] Finish introduction
+- [ ] Document the different authentication methods
+- [ ] Add example code of how to authenticate to the StoreKeeper api
+- [ ] Show example of basic usage (listing customers for example)
+
 ## Getting started
 
 The StoreKeeper API allows programmatic access to all of the features that are available within the StoreKeeper backoffice. Usage of the API will allow you to fully integrate the StoreKeeper system*s* with your own system*s*.
