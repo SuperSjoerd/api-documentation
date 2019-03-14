@@ -11,8 +11,8 @@ Using the API Explorer, it's possible to generate the code, which is needed to r
 ## Important urls
 | System | Url |
 |--------|--------|
-| backoffice | https://__account_name__.storekeeper.cloud |
-| api explorer | https://explorer-__account_name__.storekeeper.cloud |
+| backoffice | https://{account_name}.storekeeper.cloud |
+| api explorer | https://explorer-{account_name}.storekeeper.cloud |
 
 ## Authentication methods
 
